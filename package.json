@@ -1,0 +1,16 @@
+{
+  "name": "image_editor",
+  "version": "1.0.0",
+  "description": "A simple resizer of images",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caio Msv",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.30.4"
+  },
+  "devDependencies": {
+  }
+}
